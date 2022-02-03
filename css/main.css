@@ -77,7 +77,7 @@ section{display: flex;}
   margin-top: 10px;
 }
 
-.nav-list li>a{
+.nav-list li a{
   font-size: 16px;
   text-transform: uppercase;
   font-weight: 700;
