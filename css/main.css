@@ -21,7 +21,7 @@ section{display: flex;}
 .space-between{justify-content: space-between;}
 
 .btn{
-  cursor: pointer;
+  cursor: default;
   border: none;
   border-radius: 3px;
   line-height: 1.4;
