@@ -39,7 +39,7 @@ section{display: flex;}
   color: #8598a2;
   line-height: 1.4;
 }
-.text-light, .text-primary{font-size: 30px;}
-.text-light{color: #a0a0a0;}
-.text-primary{color: #faa541;}
+
+.text-light{font-size: 30px; color: #a0a0a0;}
+.text-primary{font-size: 30px; color: #faa541;}
 .text-secondary{font-size:16px; color: #364147;}
