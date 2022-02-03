@@ -28,9 +28,8 @@ section{display: flex;}
   padding: 6px 12px;
 }
 
-.btn-default, .btn-primary{color: #ffffff;}
-.btn-default{background-color: #faa541;}
-.btn-primary{background-color: #364147;}
+.btn-default{color: #ffffff; background-color: #faa541;}
+.btn-primary{color: #ffffff; background-color: #364147;}
 
 .form-control{
   display: block;
