@@ -21,14 +21,14 @@ section{display: flex;}
 .space-between{justify-content: space-between;}
 
 .btn{
-  cursor: default;
-  border: none;
+  cursor: pointer;
+  border: 0;
   border-radius: 3px;
   line-height: 1.4;
   padding: 6px 12px;
 }
 
-.btn-default, .btn-primary{color: white;}
+.btn-default, .btn-primary{color: #ffffff;}
 .btn-default{background-color: #faa541;}
 .btn-primary{background-color: #364147;}
 
@@ -39,7 +39,7 @@ section{display: flex;}
   color: #8598a2;
   line-height: 1.4;
 }
-.text-ligth, .text-primary{font-size: 30px;}
-.text-ligth{color: #a0a0a0;}
+.text-light, .text-primary{font-size: 30px;}
+.text-light{color: #a0a0a0;}
 .text-primary{color: #faa541;}
 .text-secondary{font-size:16px; color: #364147;}
